@@ -36,7 +36,7 @@ header {
 .nav-links a {
   color: white;
   text-decoration: none;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .nav-links a[href="#"]:nth-child(3) {
@@ -181,10 +181,6 @@ footer {
   .art-grid {
     grid-template-columns: 1fr;
   }
-
-  .nav-links {
-  gap: 2rem;
-}
 
   .navbar {
     flex-direction: column;
