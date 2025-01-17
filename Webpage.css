@@ -182,6 +182,10 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  .nav-links {
+  gap: 2rem;
+}
+
   .navbar {
     flex-direction: column;
     align-items: center;
